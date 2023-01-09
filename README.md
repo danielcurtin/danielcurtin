@@ -10,7 +10,7 @@
 ## 📝 My Projects
 ✅ [Romcom](https://danielcurtin.github.io/romcom/) collab with -[Noah Byers](https://github.com/SleepyisAwak3)-<br>
 ✅ [Self Care Center](https://danielcurtin.github.io/self-care-center/)<br>
-✅ [Colorandom](Link TBD) collab with -[Kelli Watkins](https://github.com/klwats)- -[Bea Ordonez](https://github.com/bea-ordonez)- and -[Trevor Fitzgerald](https://github.com/trevorfitz0)-<br>
+✅ [Colorandom](https://danielcurtin.github.io/colorandom/) collab with -[Kelli Watkins](https://github.com/klwats)- -[Bea Ordonez](https://github.com/bea-ordonez)- and -[Trevor Fitzgerald](https://github.com/trevorfitz0)-<br>
 🛠️ [Flappy Bird](https://danielcurtin.github.io/bird-attempt-1/)<br>
 
 ## 🔗 Connect with Me
