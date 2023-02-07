@@ -10,8 +10,8 @@
 ## 📝 My Projects
 ✅ [Romcom](https://danielcurtin.github.io/romcom/) collab with -[Noah Byers](https://github.com/SleepyisAwak3)-<br>
 ✅ [Self Care Center](https://danielcurtin.github.io/self-care-center/)<br>
-✅ [Colorandom](https://danielcurtin.github.io/colorandom/) collab with -[Kelli Watkins](https://github.com/klwats)- -[Bea Ordonez](https://github.com/bea-ordonez)- and -[Trevor Fitzgerald](https://github.com/trevorfitz0)-<br>
-✅ [Rock Paper Scissors](https://danielcurtin.github.io/rock-paper-scissors/)<br>
+✅ [Colorandom](https://danielcurtin.github.io/colorandom/) collab with [Kelli Watkins](https://github.com/klwats), [Bea Ordonez](https://github.com/bea-ordonez), and [Trevor Fitzgerald](https://github.com/trevorfitz0)<br>
+✅ [Forest, Human, Mountain](https://danielcurtin.github.io/forest-human-mountain/)<br>
 
 ## 🔗 Connect with Me
 <a href="mailto:dcurtin.work@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail logo" height="40" width="40"/> dcurtin.work@gmail.com<br>
