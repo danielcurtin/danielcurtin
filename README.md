@@ -3,11 +3,11 @@
 <h2 align="center">Frontend Software Engineering Student at Turing School of Software and Design</h2>
 
 ## 🌱 Currently learning
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>React<br>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>Typescript<br>
 
 
 ## ⭐️ My Skills
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>React<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> Javascript<br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>HTML<br>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>CSS<br>
@@ -18,6 +18,8 @@
 ✅ [Colorandom](https://danielcurtin.github.io/colorandom/) collab with [Kelli Watkins](https://github.com/klwats), [Bea Ordonez](https://github.com/bea-ordonez), and [Trevor Fitzgerald](https://github.com/trevorfitz0)<br>
 ✅ [Forest, Human, Mountain](https://danielcurtin.github.io/forest-human-mountain/)<br>
 ✅ [Rancid Tomatillos](https://danielcurtin.github.io/rancid-tomatillos) collab with [Kass Daniello](https://github.com/Zertroz)<br>
+✅ [Book Saver](https://danielcurtin.github.io/book-saver) collab with [Trevor Fitzgerald](https://github.com/trevorfitz0) and [Tom Doder](https://github.com/lordschwifty)
+✅ [FurCast](https://danielcurtin.github.io/FurCast)
 
 ## 🔗 Connect with Me
 <a href="mailto:dcurtin.work@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail logo" height="40" width="40"/> dcurtin.work@gmail.com<br>
