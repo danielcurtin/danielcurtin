@@ -18,7 +18,7 @@
 ✅ [Colorandom](https://danielcurtin.github.io/colorandom/) collab with [Kelli Watkins](https://github.com/klwats), [Bea Ordonez](https://github.com/bea-ordonez), and [Trevor Fitzgerald](https://github.com/trevorfitz0)<br>
 ✅ [Forest, Human, Mountain](https://danielcurtin.github.io/forest-human-mountain/)<br>
 ✅ [Rancid Tomatillos](https://danielcurtin.github.io/rancid-tomatillos) collab with [Kass Daniello](https://github.com/Zertroz)<br>
-✅ [Book Saver](https://danielcurtin.github.io/book-saver) collab with [Trevor Fitzgerald](https://github.com/trevorfitz0) and [Tom Doder](https://github.com/lordschwifty)
+✅ [Book Saver](https://danielcurtin.github.io/book-saver) collab with [Trevor Fitzgerald](https://github.com/trevorfitz0) and [Tom Doder](https://github.com/lordschwifty)<br>
 ✅ [FurCast](https://danielcurtin.github.io/FurCast)
 
 ## 🔗 Connect with Me
