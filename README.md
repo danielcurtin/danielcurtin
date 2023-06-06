@@ -21,5 +21,5 @@
 ✅ [FurCast](https://danielcurtin.github.io/FurCast)
 
 ## 🔗 Connect with Me
-<a href="mailto:dcurtin.work@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail logo" height="40" width="40"/> dcurtin.work@gmail.com<br>
-<a href="https://linkedin.com/in/daniel-curtin-39954a192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-c-39954a192/" height="30" width="40" /></a>https://www.linkedin.com/in/daniel-curtin-39954a192/<br>
+<a href="mailto:dcurtin.work@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-white?style=for-the-badge&logo=gmail" alt="gmail" maxWidth="100%"/><br>
+<a href="https://linkedin.com/in/daniel-curtin-39954a192/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="https://www.linkedin.com/in/daniel-c-39954a192/" maxWidth="100%"/></a><br>
