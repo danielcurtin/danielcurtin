@@ -1,6 +1,6 @@
 <h1 align="center">Hi&nbsp; 👋&nbsp; I'm Daniel</h1>
 
-<h2 align="center">Frontend Software Engineering Student at Turing School of Software and Design</h2>
+<h2 align="center">Frontend Software Engineer</h2>
 
 ## 🌱 Currently learning
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
