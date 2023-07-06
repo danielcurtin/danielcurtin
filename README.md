@@ -12,13 +12,13 @@
 <img src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
 
 ## 📝 My Projects
-✅ [Romcom](https://danielcurtin.github.io/romcom/) collab with [Noah Byers](https://github.com/SleepyisAwak3)<br>
-✅ [Self Care Center](https://danielcurtin.github.io/self-care-center/)<br>
-✅ [Colorandom](https://danielcurtin.github.io/colorandom/) collab with [Kelli Watkins](https://github.com/klwats), [Bea Ordonez](https://github.com/bea-ordonez), and [Trevor Fitzgerald](https://github.com/trevorfitz0)<br>
-✅ [Forest, Human, Mountain](https://danielcurtin.github.io/forest-human-mountain/)<br>
-✅ [Rancid Tomatillos](https://danielcurtin.github.io/rancid-tomatillos) collab with [Kass Daniello](https://github.com/Zertroz)<br>
-✅ [Book Saver](https://danielcurtin.github.io/book-saver) collab with [Trevor Fitzgerald](https://github.com/trevorfitz0) and [Tom Doder](https://github.com/lordschwifty)<br>
-✅ [FurCast](https://danielcurtin.github.io/FurCast)
+💃 [Romcom](https://danielcurtin.github.io/romcom/) collab with [Noah Byers](https://github.com/SleepyisAwak3)<br>
+🕊️ [Self Care Center](https://danielcurtin.github.io/self-care-center/)<br>
+🌈 [Colorandom](https://danielcurtin.github.io/colorandom/) collab with [Kelli Watkins](https://github.com/klwats), [Bea Ordonez](https://github.com/bea-ordonez), and [Trevor Fitzgerald](https://github.com/trevorfitz0)<br>
+🌲 [Forest, Human, Mountain](https://danielcurtin.github.io/forest-human-mountain/)<br>
+🍅 [Rancid Tomatillos](https://danielcurtin.github.io/rancid-tomatillos) collab with [Kass Daniello](https://github.com/Zertroz)<br>
+📖 [Book Saver](https://danielcurtin.github.io/book-saver) collab with [Trevor Fitzgerald](https://github.com/trevorfitz0) and [Tom Doder](https://github.com/lordschwifty)<br>
+🐾 [FurCast](https://danielcurtin.github.io/FurCast)
 
 ## 🔗 Connect with Me
 <a href="mailto:dcurtin.work@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-white?style=for-the-badge&logo=gmail" alt="gmail" maxWidth="100%"/><br>
